@@ -1,5 +1,5 @@
 if shared.VapeExecuted then
-	local VERSION = "v4.07"
+	local VERSION = "v1.00"
 	local rainbowvalue = 0
 	local cam = game:GetService("Workspace").CurrentCamera
 	local getasset = getsynasset or getcustomasset
