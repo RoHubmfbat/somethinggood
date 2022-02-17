@@ -6137,7 +6137,7 @@ if shared.VapeExecuted then
 
 	api["LoadedAnimation"] = function(enabled)
 		if enabled then
-			api["CreateNotification"]("Finished Loading", "Press "..string.upper(api["GUIKeybind"]).." to open GUI", 9.5)
+			api["CreateNotification"]("Finished Loading Files", "Press "..string.upper(api["GUIKeybind"]).." to Launch.", 9.5)
 		end
 	end
 
